@@ -1,6 +1,6 @@
 Angular test video stream. [Try me](https://cam-cesar-test.stackblitz.io/)
 
-# cesar-camara
+# cam-cesar-test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
